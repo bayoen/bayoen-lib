@@ -9,6 +9,7 @@
     <Import_RootNamespace>bayoen.Library</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Utilities\ExtendedMethods\System.Windows.Controls.Image.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Utilities\ProcessMemory.cs" />
   </ItemGroup>
 </Project>
